@@ -1,1 +1,34 @@
-make website pretty lab 5
+
+
+
+
+body {
+color:pink}
+
+h1 {
+
+color:aqua;
+
+}
+footer { 
+
+color:orchid
+
+
+}
+
+/* this is invision note :add style rules for section in folder index.html */
+
+section{ 
+width: 90%;
+margin:auto;
+border-style:solid;
+border-width:20px;
+border-color:purple
+}
+
+/* this is invisible note any image inside section, first image is quote in index.html, and wanted to center the first cupcake image */
+#firstimage{
+width:50%;
+margin-left:25%;
+} 
